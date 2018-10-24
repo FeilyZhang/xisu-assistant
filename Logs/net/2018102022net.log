@@ -1,0 +1,236 @@
+2018-10-20 22:19:08,517- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:19:08,518- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:19:08,551- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540045148</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您已绑定,您的绑定信息为
+用户名：107242016002427
+密  码：107242016002427]]></Content>
+                        </xml>
+2018-10-20 22:19:13,526- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:19:13,526- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:19:15,200- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540045155</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[网络繁忙，稍后再试]]></Content>
+                        </xml>
+2018-10-20 22:20:15,010- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:20:15,011- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:20:15,021- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540045215</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-20 22:20:25,440- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:20:25,440- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:20:25,448- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540045225</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-20 22:34:50,455- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:34:50,456- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:34:50,481- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046090</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您已绑定,您的绑定信息为
+用户名：107242016002427
+密  码：107242016002427]]></Content>
+                        </xml>
+2018-10-20 22:34:58,787- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:34:58,788- net - dealevent.py:[line:10]- INFO - 点击菜单解绑用户
+2018-10-20 22:34:58,844- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046098</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[解绑成功]]></Content>
+                        </xml>
+2018-10-20 22:36:47,714- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:36:47,714- net - dealevent.py:[line:10]- INFO - 点击菜单解绑用户
+2018-10-20 22:36:47,726- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046207</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[解绑失败，您未绑定]]></Content>
+                        </xml>
+2018-10-20 22:36:53,303- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:36:53,303- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:36:53,308- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046213</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href='http://3362bce2.ngrok.io/binding?openid=o1X941FLNbaeLKKLwQjfYcR243aA'>点击绑定</a>]]></Content>
+                        </xml>
+2018-10-20 22:44:01,943- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:44:01,943- net - dealevent.py:[line:7]- INFO - 关注操作
+2018-10-20 22:44:01,947- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046641</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[欢迎关注西安外国语博文天下，本公众号主要用于西安外国语大学成绩查询
+                西安外国语大学查成绩的同学在公众号回复“成绩”即可
+                账号密码为教务系统的账号密码，账号密码都默认学号，
+                如果改过就按新的密码查成绩遇到问题的同学请联系博文君微信号：1745649321]]></Content>
+                        </xml>
+2018-10-20 22:44:20,671- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:44:20,674- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046660</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您未绑定]]></Content>
+                        </xml>
+2018-10-20 22:44:25,937- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:44:25,937- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:44:25,941- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046665</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href='http://3362bce2.ngrok.io/binding?openid=o1X941CcIvhpudznSgA0n_qdQJKI'>点击绑定</a>]]></Content>
+                        </xml>
+2018-10-20 22:45:53,277- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:45:53,277- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:45:54,837- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046754</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[网络繁忙，稍后再试]]></Content>
+                        </xml>
+2018-10-20 22:46:02,289- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:02,289- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:46:02,304- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046762</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-20 22:46:24,082- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:24,083- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:46:24,601- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:24,601- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:46:25,666- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046785</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:46:26,263- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046786</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[网络繁忙，稍后再试]]></Content>
+                        </xml>
+2018-10-20 22:46:28,817- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:28,818- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:46:28,833- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046788</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:46:33,955- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:33,955- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:46:33,964- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046793</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:46:41,300- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:46:41,301- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:46:41,306- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046801</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:47:18,770- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:47:18,771- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:47:18,775- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046838</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您已绑定,您的绑定信息为
+用户名：107242017002956
+密  码：107242017002956]]></Content>
+                        </xml>
+2018-10-20 22:47:21,443- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:47:21,444- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-20 22:47:21,448- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046841</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-20 22:47:26,564- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:47:26,564- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:47:26,576- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046846</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:49:04,118- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:49:04,119- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:49:04,133- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046944</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天无课哦]]></Content>
+                        </xml>
+2018-10-20 22:49:40,521- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-20 22:49:40,522- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-20 22:49:40,573- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540046980</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有2门课
+
+商务语言基础III(0731049.02)
+JF317
+薛芳
+第3 - 4节
+
+高级财务会计(0722804.01)
+JF103
+党宏康
+第6 - 7节
+
+]]></Content>
+                        </xml>
+2018-10-20 22:50:26,725- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-20 22:50:26,726- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-20 22:50:26,745- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540047026</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href='http://3362bce2.ngrok.io/binding?openid=o1X941FLNbaeLKKLwQjfYcR243aA'>点击绑定</a>]]></Content>
+                        </xml>

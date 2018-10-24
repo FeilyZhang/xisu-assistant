@@ -1,0 +1,55 @@
+2018-10-20 22:19:08,541- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:19:08,543- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:19:13,532- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:19:13,537- database - scoreDao.py:[line:75]- WARNING - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库无成绩
+2018-10-20 22:19:15,192- database - scoreDao.py:[line:43]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA成绩插入成功
+2018-10-20 22:19:15,199- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-20 22:20:15,013- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:20:15,020- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-20 22:20:25,444- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:20:25,448- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-20 22:34:50,477- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:34:50,478- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:34:58,791- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-20 22:34:58,823- database - scoreDao.py:[line:90]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA删除成绩成功
+2018-10-20 22:34:58,824- database - courseDao.py:[line:62]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA删除成绩失败
+2018-10-20 22:34:58,844- database - userDao.py:[line:91]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA解绑成功
+2018-10-20 22:36:47,725- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:36:53,307- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:37:05,935- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:38:04,423- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:38:44,509- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:41:05,762- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:42:48,943- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:43:19,319- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-20 22:44:20,674- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:44:25,940- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:44:29,381- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:44:46,212- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:44:59,772- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:45:29,821- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:45:44,093- database - userDao.py:[line:21]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 为空
+2018-10-20 22:45:45,383- database - userDao.py:[line:55]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI用户绑定成功
+2018-10-20 22:45:53,281- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:45:53,284- database - scoreDao.py:[line:75]- WARNING - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库无成绩
+2018-10-20 22:45:54,833- database - scoreDao.py:[line:43]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI成绩插入成功
+2018-10-20 22:45:54,836- database - scoreDao.py:[line:22]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库中已存在今天成绩
+2018-10-20 22:46:02,295- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:46:02,303- database - scoreDao.py:[line:22]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库中已存在今天成绩
+2018-10-20 22:46:24,115- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:46:24,123- database - courseDao.py:[line:44]- WARNING - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库无课表
+2018-10-20 22:46:24,604- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:46:24,606- database - courseDao.py:[line:44]- WARNING - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库无课表
+2018-10-20 22:46:25,662- database - courseDao.py:[line:30]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI课表插入成功
+2018-10-20 22:46:26,263- database - courseDao.py:[line:33]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI课表插入失败
+2018-10-20 22:46:28,824- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:46:33,961- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:46:41,303- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:47:18,772- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:47:18,773- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:47:21,445- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:47:21,448- database - scoreDao.py:[line:22]- INFO - 用户o1X941CcIvhpudznSgA0n_qdQJKI数据库中已存在今天成绩
+2018-10-20 22:47:26,568- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:49:04,124- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:49:40,534- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-20 22:50:26,745- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态

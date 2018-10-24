@@ -1,0 +1,169 @@
+2018-10-23 12:24:54,931- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:24:54,931- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 12:24:54,951- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268694</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您未绑定]]></Content>
+                        </xml>
+2018-10-23 12:25:25,909- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:25:25,910- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-23 12:25:25,941- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268725</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href=' http://02c445b4.ngrok.io/binding?openid=o1X941FLNbaeLKKLwQjfYcR243aA'>点击绑定</a>]]></Content>
+                        </xml>
+2018-10-23 12:25:56,242- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:25:56,243- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 12:25:56,286- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268756</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有3门课
+
+经济法理论与酒店业法规(0623046.01)
+JF501
+王莉霞
+第3 - 4节
+
+酒店新业态系列讲座(0623042.01)
+JD414
+杨军辉
+第6 - 7节
+
+旅游目的地管理与营销(0622038.01)
+JA410
+苏红霞
+第1 - 2节
+
+]]></Content>
+                        </xml>
+2018-10-23 12:26:34,421- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-23 12:26:34,422- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 12:26:34,429- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268794</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有3门课
+
+商务语言基础III(0731049.02)
+JF210
+薛芳
+第1 - 2节
+
+商务英语视听说III(0731062.08)
+SB309
+唐慧利
+第6 - 7节
+
+业绩管理(F5)(0732107.01)
+JF304
+张思迪
+第3 - 4节
+
+]]></Content>
+                        </xml>
+2018-10-23 12:26:48,918- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-23 12:26:48,918- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 12:26:48,930- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268808</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有3门课
+
+商务语言基础III(0731049.02)
+JF210
+薛芳
+第1 - 2节
+
+商务英语视听说III(0731062.08)
+SB309
+唐慧利
+第6 - 7节
+
+业绩管理(F5)(0732107.01)
+JF304
+张思迪
+第3 - 4节
+
+]]></Content>
+                        </xml>
+2018-10-23 12:27:41,150- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:27:41,150- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-23 12:27:42,461- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268862</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[网络繁忙，稍后再试]]></Content>
+                        </xml>
+2018-10-23 12:27:48,279- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:27:48,280- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-23 12:27:48,292- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268868</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-23 12:28:44,968- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 12:28:44,969- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-23 12:28:44,985- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540268924</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-23 12:33:17,443- net - index.py:[line:29]- INFO - 接受到o1X941CcIvhpudznSgA0n_qdQJKI的消息
+2018-10-23 12:33:17,443- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 12:33:17,449- net - index.py:[line:32]- INFO - 返回给o1X941CcIvhpudznSgA0n_qdQJKI消息<xml>
+                        <ToUserName><![CDATA[o1X941CcIvhpudznSgA0n_qdQJKI]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540269197</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有3门课
+
+商务语言基础III(0731049.02)
+JF210
+薛芳
+第1 - 2节
+
+商务英语视听说III(0731062.08)
+SB309
+唐慧利
+第6 - 7节
+
+业绩管理(F5)(0732107.01)
+JF304
+张思迪
+第3 - 4节
+
+]]></Content>
+                        </xml>
+2018-10-23 13:18:29,418- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 13:18:29,418- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-23 13:18:29,461- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540271909</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-23 13:18:35,061- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 13:18:35,061- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-23 13:18:35,100- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540271915</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[您已绑定,您的绑定信息为
+用户名：107242016000732
+密  码：107242016000732]]></Content>
+                        </xml>

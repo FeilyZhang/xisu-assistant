@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keywords>
+    <keyword>
+        <key-name>绑定</key-name>
+        <key-type>function</key-type>
+        <key-value>add</key-value>
+    </keyword>
+    <keyword>
+        <key-name>解绑</key-name>
+        <key-type>function</key-type>
+        <key-value>delete</key-value>
+    </keyword>
+    <keyword>
+        <key-name>成绩</key-name>
+        <key-type>function</key-type>
+        <key-value>selectScore</key-value>
+    </keyword>
+    <keyword>
+        <key-name>课表</key-name>
+        <key-type>function</key-type>
+        <key-value>selectCourse</key-value>
+    </keyword>
+</keywords>

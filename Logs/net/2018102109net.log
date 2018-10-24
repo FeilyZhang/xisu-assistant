@@ -1,0 +1,18 @@
+2018-10-21 09:21:06,067- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-21 09:21:06,068- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-21 09:21:06,099- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-21 09:21:06,099- net - dealevent.py:[line:10]- INFO - 点击菜单绑定用户
+2018-10-21 09:21:06,122- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540084866</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href='http://c81a14e5.ngrok.io/binding?openid=o1X941FLNbaeLKKLwQjfYcR243aA'>点击绑定</a>]]></Content>
+                        </xml>
+2018-10-21 09:21:06,124- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540084866</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[<a href='http://c81a14e5.ngrok.io/binding?openid=o1X941FLNbaeLKKLwQjfYcR243aA'>点击绑定</a>]]></Content>
+                        </xml>

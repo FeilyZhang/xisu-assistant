@@ -1,0 +1,35 @@
+2018-10-23 13:53:52,591- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 13:53:52,592- net - dealevent.py:[line:10]- INFO - 点击菜单成绩查询
+2018-10-23 13:53:53,890- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540274033</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[成绩未出]]></Content>
+                        </xml>
+2018-10-23 13:54:09,551- net - index.py:[line:29]- INFO - 接受到o1X941FLNbaeLKKLwQjfYcR243aA的消息
+2018-10-23 13:54:09,552- net - dealevent.py:[line:10]- INFO - 点击菜单课表查询
+2018-10-23 13:54:09,574- net - index.py:[line:32]- INFO - 返回给o1X941FLNbaeLKKLwQjfYcR243aA消息<xml>
+                        <ToUserName><![CDATA[o1X941FLNbaeLKKLwQjfYcR243aA]]></ToUserName>
+                        <FromUserName><![CDATA[gh_eb7ea63f5926]]></FromUserName>
+                        <CreateTime>1540274049</CreateTime>
+                        <MsgType><![CDATA[text]]></MsgType>
+                        <Content><![CDATA[今天你有3门课
+
+经济法理论与酒店业法规(0623046.01)
+JF501
+王莉霞
+第3 - 4节
+
+酒店新业态系列讲座(0623042.01)
+JD414
+杨军辉
+第6 - 7节
+
+旅游目的地管理与营销(0622038.01)
+JA410
+苏红霞
+第1 - 2节
+
+]]></Content>
+                        </xml>

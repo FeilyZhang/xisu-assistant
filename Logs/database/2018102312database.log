@@ -1,0 +1,22 @@
+2018-10-23 12:24:54,950- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-23 12:25:25,940- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-23 12:25:29,040- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-23 12:25:49,808- database - userDao.py:[line:28]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于解绑状态
+2018-10-23 12:25:51,027- database - userDao.py:[line:74]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA用户更新成功
+2018-10-23 12:25:56,245- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 12:26:28,871- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 12:26:34,425- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-23 12:26:48,921- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-23 12:27:41,151- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 12:27:41,183- database - scoreDao.py:[line:75]- WARNING - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库无成绩
+2018-10-23 12:27:42,451- database - scoreDao.py:[line:43]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA成绩插入成功
+2018-10-23 12:27:42,460- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-23 12:27:48,283- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 12:27:48,292- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-23 12:28:44,975- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 12:28:44,985- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-23 12:33:17,446- database - userDao.py:[line:25]- INFO - 用户名 o1X941CcIvhpudznSgA0n_qdQJKI 处于绑定状态
+2018-10-23 13:18:29,452- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 13:18:29,461- database - scoreDao.py:[line:22]- INFO - 用户o1X941FLNbaeLKKLwQjfYcR243aA数据库中已存在今天成绩
+2018-10-23 13:18:35,093- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
+2018-10-23 13:18:35,096- database - userDao.py:[line:25]- INFO - 用户名 o1X941FLNbaeLKKLwQjfYcR243aA 处于绑定状态
